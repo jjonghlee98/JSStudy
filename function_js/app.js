@@ -4,6 +4,12 @@ function grumpus() {
   console.log('Three Test');
 }
 
+function hello() {
+  console.log('hello');
+  console.log('hello');
+  console.log('hello');
+}
+
 function singSong() {
   console.log('Do');
   console.log('Re');
